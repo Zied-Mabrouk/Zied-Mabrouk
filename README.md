@@ -42,8 +42,8 @@
 ## Front-End
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![angular](https://img.shields.io/badge/angular-0F0F11.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB)
-![vue](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=%2361DAFB)
+![angular](https://img.shields.io/badge/angular-c3002f.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB)
+![vue](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
