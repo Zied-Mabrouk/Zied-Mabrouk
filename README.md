@@ -1,2 +1,2 @@
-![Greetings](./greetings.svg)
+![Greetings](./greetings.png)
 
