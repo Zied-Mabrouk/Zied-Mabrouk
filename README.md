@@ -71,10 +71,7 @@
 - Currently Learning:
 
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-
-- Plan to Learn:
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![solidity](https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=three.js&logoColor=white)
 
 </details>
 
@@ -83,7 +80,7 @@
 <details open>
   <summary> <b>Stats</b>: </summary>
 <a href='https://git.io/streak-stats' align="center" width="100%">
-    <img style='width:100%;' src='https://github-readme-streak-stats-mbm.vercel.app/?user=ZiedMabrouk&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=44C394&sideLabels=888888&background=FFFFFF00&ring=44C394&fire=44C394&currStreakNum=888888&sideNums=888888&currStreakLabel=44C394&dates=888888' />
+    <img style='width:100%;' src='https://github-readme-streak-stats-mbm.vercel.app/?user=ZiedMabrouk&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=f97706&sideLabels=888888&background=FFFFFF00&ring=f97706&fire=f97706&currStreakNum=888888&sideNums=888888&currStreakLabel=f97706&dates=888888' />
 </a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
     <img style='width:60%;' src='https://github-readme-stats-mbm.vercel.app/api?username=ZiedMabrouk&show_icons=true&count_private=true&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true&rank_icon=percentile&include_all_commits=false&show=reviews,prs_merged_percentage' />
 </a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
