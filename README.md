@@ -74,7 +74,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 </details>
-waka_ee841ebb-bd5e-4d9b-8dd3-34ae7bfb63fd
+
 [![wakatime](https://wakatime.com/badge/user/ab473200-b3d3-4d68-82f3-3b2d682dc9b7.svg?style=for-the-badge)](https://wakatime.com/@ab473200-b3d3-4d68-82f3-3b2d682dc9b7)
 
 <details open>
