@@ -68,7 +68,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
-- Currently Learning:
+## Currently Learning:
 
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![solidity](https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=three.js&logoColor=white)
