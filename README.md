@@ -53,6 +53,7 @@
 ## Miscellaneous
 
 ![azuredevops](https://img.shields.io/badge/azuredevops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -63,38 +64,31 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - Currently Learning:
 
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 - Plan to Learn:
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
 
 </details>
-
-[![wakatime](https://wakatime.com/badge/user/d47f8334-d555-4ecd-802f-2052519fe5ec.svg?style=for-the-badge)](https://wakatime.com/@d47f8334-d555-4ecd-802f-2052519fe5ec)
+waka_ee841ebb-bd5e-4d9b-8dd3-34ae7bfb63fd
+[![wakatime](https://wakatime.com/badge/user/ab473200-b3d3-4d68-82f3-3b2d682dc9b7.svg?style=for-the-badge)](https://wakatime.com/@ab473200-b3d3-4d68-82f3-3b2d682dc9b7)
 
 <details open>
   <summary> <b>Stats</b>: </summary>
 <a href='https://git.io/streak-stats' align="center" width="100%">
-    <img style='width:100%;' src='https://github-readme-streak-stats-mbm.vercel.app/?user=MohamedBechirMejri&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=44C394&sideLabels=888888&background=FFFFFF00&ring=44C394&fire=44C394&currStreakNum=888888&sideNums=888888&currStreakLabel=44C394&dates=888888' />
+    <img style='width:100%;' src='https://github-readme-streak-stats-mbm.vercel.app/?user=ZiedMabrouk&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=44C394&sideLabels=888888&background=FFFFFF00&ring=44C394&fire=44C394&currStreakNum=888888&sideNums=888888&currStreakLabel=44C394&dates=888888' />
 </a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
-    <img style='width:60%;' src='https://github-readme-stats-mbm.vercel.app/api?username=MohamedBechirMejri&show_icons=true&count_private=true&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true&rank_icon=percentile&include_all_commits=false&show=reviews,prs_merged_percentage' />
+    <img style='width:60%;' src='https://github-readme-stats-mbm.vercel.app/api?username=ZiedMabrouk&show_icons=true&count_private=true&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true&rank_icon=percentile&include_all_commits=false&show=reviews,prs_merged_percentage' />
 </a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
-    <img style='width:39%;' src='https://github-readme-stats-mbm.vercel.app/api/top-langs/?username=MohamedBechirMejri&layout=compact&show_icons=true&count_private=true&langs_count=10&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true' />
+    <img style='width:39%;' src='https://github-readme-stats-mbm.vercel.app/api/top-langs/?username=ZiedMabrouk&layout=compact&show_icons=true&count_private=true&langs_count=10&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true' />
 </a>
 
 <a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
-    <img style='width:100%;' src='https://github-readme-stats-mbm.vercel.app/api/wakatime?username=mohamedbechirmejri&layout=compact&show_icons=true&count_private=true&langs_count=10&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true' />
+    <img style='width:100%;' src='https://github-readme-stats-mbm.vercel.app/api/wakatime?username=ZiedMabrouk&layout=compact&show_icons=true&count_private=true&langs_count=10&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true' />
 </a>
 
 </details>
@@ -104,13 +98,9 @@
 <details open>
   <summary> <b>Connect With Me</b>: </summary>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedbechir.mejri.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedbechirmejri/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/MohamedBechirMejri/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mohamed_bechir_mejri/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21655209052)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MBechirM)
-[![Telegram](https://img.shields.io/badge/More-About_me-3aa780?style=for-the-badge)](https://MohamedBechirMejri.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almabrouk.zied@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabrouk-zied/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zied.mabroukk/)
 
 </details>
 
